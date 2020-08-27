@@ -14,3 +14,4 @@ please refer to the build_cityscapes.ipynb python notebook to know how to build 
 please refer to FastSCNN.ipynb python notebook for the FASTSCNN model.
 
 please maintain the same diretory struture as given or change the directory parameters as required.
+Because of the large size of the data, it has not been committed to the repo but the directory structure remains the same.
